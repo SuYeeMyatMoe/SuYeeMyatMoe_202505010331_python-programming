@@ -59,7 +59,7 @@ The system evaluates:
 # 2. Design the Algorithm
 
 ## 2.1 Canva Flowchart 
-![Movie Theater Admission Flowchart](https://your-image-link.com/flowchart.png)
+![Movie Theater Admission Flowchart](https://week_2/diagram.png)
 ---
 
 # 2.2 Truth Table
