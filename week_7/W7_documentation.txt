@@ -1,0 +1,10 @@
+Bugs Identified in the Program:
+
+1. Missing Input Validation (food_order.py):
+The original logic did not check if the price or quantity were negative numbers or zero. This caused the system to accept invalid orders (e.g., ordering -2 items). 
+
+2. Type Formatting Crash (main.py):
+The line `print(f"Total Payment = RM {total:.2f}")` assumes the `total` variable will always be a number. If the system is modified to return an error string like "invalid price", formatting a string as a float (`.2f`) will crash the system with a ValueError. 
+
+3. Missing Try/Except Block (main.py - Optional but recommended):
+If a user types a word (like "ten") instead of a number into the `float(input())` prompt, the program will crash. Wrapping the inputs in a try/except block would make it fully robust.
