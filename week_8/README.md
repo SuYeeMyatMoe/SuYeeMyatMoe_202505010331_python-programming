@@ -14,5 +14,5 @@ A modularized backend receipt generator for a food delivery system that calculat
 4. Follow the prompts to enter customer and order details.
 ### 4.4 Demonstrate the application
 You can watch the video demonstration of this application here:
-[Demo Video](https://github.com/SuYeeMyatMoe/SuYeeMyatMoe_202505010331_python-programming/blob/main/week_8/Demo.mp4)
+[Demo Video](https://github.com/SuYeeMyatMoe/SuYeeMyatMoe_202505010331_python-programming/blob/main/week_8/Demo.gif)
 
