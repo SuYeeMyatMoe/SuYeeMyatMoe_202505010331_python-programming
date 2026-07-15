@@ -12,3 +12,4 @@ A modularized backend receipt generator for a food delivery system that calculat
 2. Navigate to the `week_8` directory.
 3. Run the application using: `python main.py`
 4. Follow the prompts to enter customer and order details.
+
