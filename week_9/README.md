@@ -11,6 +11,6 @@ The IT Helpdesk Ticket Registration System is a modular Python application desig
 1. Clone the repository and navigate into the directory:
    ```bash
    cd week_9
-### 4.4 Demonstrate the application
+### 4.4 Demonstration of the application
 You can watch the video demonstration of this application here:
 ![Demo Video](https://github.com/SuYeeMyatMoe/SuYeeMyatMoe_202505010331_python-programming/blob/main/week_9/Demo.gif)
